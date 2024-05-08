@@ -1,4 +1,4 @@
 baseURL = 'https://rdnz.dev/'
 languageCode = 'en-us'
 title = 'Guilherme Raduenz'
-theme = "hugo-bearcub"
+theme = 'hugo-bearcub'
