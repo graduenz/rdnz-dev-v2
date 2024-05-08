@@ -1,4 +1,27 @@
-baseURL = 'https://rdnz.dev/'
-languageCode = 'en-us'
-title = 'Guilherme Raduenz'
-theme = 'hugo-bearcub'
+baseURL = "https://rdnz.dev/"
+theme = "hugo-bearcub"
+
+title = "Guilherme Raduenz"
+author = "Guilherme Raduenz"
+copyright = "Copyright © 2024, Guilherme Raduenz."
+languageCode = "en-US"
+
+enableRobotsTXT = true
+
+[permalinks]
+  [permalinks.page]
+    blog = "/:slug"
+    tags = "/blog/:slug"
+  [permalinks.section]
+    blog = '/'
+
+[params]
+  madeWith = "All rights reserved."
+  description = "Guilherme Raduenz's website"
+  title = "Guilherme Raduenz"
+  dateFormat = "2006-01-02"
+  themeStyle = "original"
+
+  [params.author]
+    name = "Guilherme Raduenz"
+    email = "gui@rdnz.dev"
