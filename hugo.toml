@@ -18,6 +18,7 @@ enableRobotsTXT = true
   [permalinks.page]
     blog = "/:slug"
     tags = "/blog/:slug"
+    labs = "/labs/:slug"
   [permalinks.section]
     blog = '/'
 
