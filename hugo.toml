@@ -3,10 +3,16 @@ theme = "hugo-bearcub"
 
 title = "Guilherme Raduenz"
 author = "Guilherme Raduenz"
-copyright = "Copyright © 2024, Guilherme Raduenz."
+copyright = "Copyright © 2024, Guilherme Raduenz"
 languageCode = "en-US"
 
 enableRobotsTXT = true
+
+[markup]
+  [markup.highlight]
+    lineNos = true
+    lineNumbersInTable = false
+    noClasses = false
 
 [permalinks]
   [permalinks.page]
@@ -16,7 +22,7 @@ enableRobotsTXT = true
     blog = '/'
 
 [params]
-  madeWith = "All rights reserved."
+  madeWith = "Made with [Hugo](https://gohugo.io/) and [Bear Cub](https://github.com/clente/hugo-bearcub)"
   description = "Guilherme Raduenz's website"
   title = "Guilherme Raduenz"
   dateFormat = "2006-01-02"
