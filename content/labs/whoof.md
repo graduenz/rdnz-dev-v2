@@ -13,7 +13,12 @@ Whoof is a simple software project of an application to control pet vaccination,
   * Possibly a mobile application too, someday.
 * Demonstrate and share knowledge with the community.
 
-> 🔥 The ASP.NET Core version is the one that is publicly available, and it's likely to be the most complete one, being used as the source application to practice with some tools like Auth0, GitHub Actions, Grafana, and more; please take a look at [the repo docs](https://github.com/graduenz/whoof-aspnetcore/).
+## Important
+
+🔥 The ASP.NET Core version is the one that is publicly available, and it's likely to be the most complete one, being used as the source application to practice with some tools like Auth0, GitHub Actions, Grafana, and more; please take a look at [the repo docs](https://github.com/graduenz/whoof-aspnetcore/).
+
+- Official API docs are public at https://whoof-docs.rdnz.dev/.
+- Live demo (FE) at https://whoof.rdnz.dev/.
 
 ## Backends
 
