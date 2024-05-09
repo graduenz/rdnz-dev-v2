@@ -3,7 +3,7 @@ title = "ASP.NET Core Integration Tests"
 date = "2023-08-31T10:49:05-03:00"
 description = "Testing ASP.NET Core Web APIs effectively."
 
-tags = ['dotnet', 'csharp', 'aspnetcore']
+tags = ['dotnet', 'csharp', 'aspnetcore', 'xunit']
 +++
 
 Examples in this [GitHub repository](https://github.com/graduenz/whoof-aspnetcore).
