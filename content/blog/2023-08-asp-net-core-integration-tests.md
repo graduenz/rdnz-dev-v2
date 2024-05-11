@@ -1,5 +1,6 @@
 +++
 title = "ASP.NET Core Integration Tests"
+slug = "asp-net-core-integration-tests"
 date = "2023-08-31T10:49:05-03:00"
 description = "Testing ASP.NET Core Web APIs effectively."
 
