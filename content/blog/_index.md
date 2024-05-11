@@ -1,6 +1,6 @@
 ---
 title: "Blog"
 menu: "main"
-weight: 1
+weight: 4
 kind: "section"
 ---
