@@ -60,8 +60,6 @@ This entire process is simplified with two scripts that we'll see below.
 
 Before going into details, I've drawn a simple diagram explaining how this process will work, just in case if you are not familiar with it.
 
-> TODO: Improve Mermaid style :D
-
 ```mermaid
 sequenceDiagram
   participant local as Your machine
