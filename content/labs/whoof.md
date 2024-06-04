@@ -27,7 +27,7 @@ Backend versions that are part of this lab, including the tech being used and th
 | Tech                      | Language   | Repository                                             | Status      |
 |---------------------------|------------|--------------------------------------------------------|-------------|
 | 🔥 ASP.NET Core + EF Core | C#         | [GitHub](https://github.com/graduenz/whoof-aspnetcore) | Done ✅    |
-| NestJS + Prisma           | TypeScript | [GitHub](https://github.com/graduenz/whoof-nestjs)     | In progress |
+| NestJS + Prisma           | TypeScript | [GitHub](https://github.com/graduenz/whoof-nestjs)     | Done ✅ |
 | AdonisJS + TypeORM        | TypeScript | Not started                                            |
 | Gin                       | Go         | Not started                                            |
 | Chi                       | Go         | Not started                                            |
