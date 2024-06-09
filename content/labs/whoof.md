@@ -24,15 +24,16 @@ Whoof is a simple software project of an application to control pet vaccination,
 
 Backend versions that are part of this lab, including the tech being used and the repository link on GitHub.
 
-| Tech                      | Language   | Repository                                             | Status      |
-|---------------------------|------------|--------------------------------------------------------|-------------|
-| 🔥 ASP.NET Core + EF Core | C#         | [GitHub](https://github.com/graduenz/whoof-aspnetcore) | Done ✅    |
+| Tech                      | Language   | Repository                                             | Status   |
+|---------------------------|------------|--------------------------------------------------------|----------|
+| 🔥 ASP.NET Core + EF Core | C#         | [GitHub](https://github.com/graduenz/whoof-aspnetcore) | Done ✅ |
 | NestJS + Prisma           | TypeScript | [GitHub](https://github.com/graduenz/whoof-nestjs)     | Done ✅ |
-| AdonisJS + TypeORM        | TypeScript | Not started                                            |
 | Gin                       | Go         | Not started                                            |
-| Chi                       | Go         | Not started                                            |
-| Flask                     | Python     | Not started                                            |
 | FastAPI                   | Python     | Not started                                            |
+| Spring + Hibernate        | Java       | Not started                                            |
+| Laravel + Eloquent        | PHP        | Not started                                            |
+
+Other ideas that may or may not be implemented: AdonisJS, Chi, Flask.
 
 ## Frontends
 
