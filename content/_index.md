@@ -37,7 +37,4 @@ I have some [pet projects](/labs), and I'll be sharing soon what I'm [currently 
 
 ### Contact
 
-There are two ways to get in touch:
-
-- Message me on [WhatsApp](https://wa.me/5547991700573).
-- Email gui@rdnz.dev.
+[This WhatsApp](https://wa.me/5547991700573) only.
