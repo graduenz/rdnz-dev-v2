@@ -21,6 +21,8 @@ enableRobotsTXT = true
   title = "Guilherme Raduenz"
   dateFormat = "2006-01-02"
   themeStyle = "original"
+  
+  generateSocialCard = true
 
   [params.author]
     name = "Guilherme Raduenz"
