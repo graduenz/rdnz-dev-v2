@@ -11,30 +11,32 @@ kind: "home"
 
 I've been coding for 10+ years &horbar; more specifically since 2011, using mostly the .NET stack, and sometimes I [write about coding](/blog).
 
-Born in [Pomerode](https://www.storyproductions.com/the-most-german-towns-in-brazil) and living in Blumenau (Brazil), I speak Portuguese natively, English everyday at work, and a little bit of German ([heritage language](https://dictionary.cambridge.org/dictionary/english/heritage-language)).
+Born in [Pomerode](https://www.storyproductions.com/the-most-german-towns-in-brazil) and living in Blumenau (Brazil), I speak Portuguese natively, English every day at work, and a little bit of German ([heritage language](https://dictionary.cambridge.org/dictionary/english/heritage-language)).
 
-I have some [pet projects](/labs), and I'll be sharing soon what I'm [currently working on](/now).
+I have some [side projects](/labs), and I'll be sharing soon what I'm [currently working on](/now).
 
 ### What else?
 
-#### An overview of things I like:
+#### There are some things I like:
 
-- Petting, running, and playing with [my dogs](https://instagram.com/ravena.dolar) &horbar; definitely #1 on this list;
-- Cool weather &horbar; fall is the best season;
-- Driving on highways, travelling by car, even more in the countryside;
-- Cars, airplanes and engineering &horbar; events, museums, etc;
-- The basics: grilling steak & hanging out with friends;
-- Casually video gaming &horbar; RPGs and farming/flight/racing simulators;
-- Creating utilities and automating things.
+- Petting, running, and playing with my dogs ([they have an Instagram!](https://instagram.com/ravena.dolar)).
+- Driving on highways, traveling by car, even more in the countryside.
+- Camping, hiking, and developing some survival skills &horbar; get in touch with nature.
+- Cars, airplanes, and engineering &horbar; events, museums, etc.
+- Something very simple: grilling steak and hanging out with friends.
+- Cool weather &horbar; fall is the best season.
+- Creating utilities, improving and automating things &horbar; on my routine, my house, etc.
 
 #### And some things I want to do:
 
-- Buy a house, make it a home, and stop paying rent;
-- Learn more German, maybe do a course, travel to Germany, etc;
-- Ski, then drink Jägermeister in the Austrian alps;
-- Go on a [WRC](https://www.wrc.com/) event in-person &horbar; Finland would be the dream;
-- Learn to fly an airplane as a private pilot.
+- Buy a house (finally home!) and stop paying rent.
+- Become a father! :D
+- Get a big 4x4 car to do some offroad trips with my whole family and dogs together.
+- A long roadtrip by car in South America.
+- Learn to speak more languages: German, Spanish, maybe another one.
+- Ski or snowboard in the Austrian or Swiss alps.
+- Go on a [WRC](https://www.wrc.com/) event in person &horbar; Finland on summer is "the dream".
 
 ### Contact
 
-[This WhatsApp](https://wa.me/5547991700573) only.
+Please send a message to [this WhatsApp](https://wa.me/5547991700573).
