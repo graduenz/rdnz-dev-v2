@@ -13,23 +13,18 @@ I've been coding for 10+ years &horbar; more specifically since 2011, using most
 
 Born in [Pomerode](https://www.storyproductions.com/the-most-german-towns-in-brazil) and living in Blumenau (Brazil), I speak Portuguese natively, English every day at work, and a little bit of German ([heritage language](https://dictionary.cambridge.org/dictionary/english/heritage-language)).
 
-I have some [side projects](/labs), and I'll be sharing soon what I'm [currently working on](/now).
+I have some [side projects](/labs) which I work on from time to time, and I'll be sharing soon what I'm [currently working on](/now).
 
-### What else?
+#### I know I like these things:
 
-#### There are some things I like:
-
-- Petting, running, and playing with my dogs ([they have an Instagram!](https://instagram.com/ravena.dolar)).
 - Driving on highways, traveling by car, even more in the countryside.
-- Camping, hiking, and developing some survival skills &horbar; get in touch with nature.
-- Cars, airplanes, and engineering &horbar; events, museums, etc.
-- Something very simple: grilling steak and hanging out with friends.
-- Cool weather &horbar; fall is the best season.
+- Camping, hiking, and doing things outdoor &horbar; get in touch with nature.
+- Cars, airplanes, and engineering &horbar; go on events, visit museums, etc.
+- Petting, running, and playing with [my dogs](https://instagram.com/ravena.dolar).
 - Creating utilities, improving and automating things &horbar; on my routine, my house, etc.
 
-#### And some things I want to do:
+#### And, I also want to...
 
-- Buy a house (finally home!) and stop paying rent.
 - Become a father! :D
 - Get a big 4x4 car to do some offroad trips with my whole family and dogs together.
 - A long roadtrip by car in South America.
