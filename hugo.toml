@@ -1,4 +1,4 @@
-baseURL = "https://rdnz.dev/"
+baseURL = "https://graduenz.github.io/rdnz-dev-v2/"
 theme = "hugo-bearcub"
 
 title = "Guilherme Raduenz"

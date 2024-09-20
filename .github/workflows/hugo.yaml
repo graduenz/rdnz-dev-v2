@@ -68,7 +68,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://rdnz.dev
+      url: https://graduenz.github.io/rdnz-dev-v2/
     runs-on: ubuntu-latest
     needs: build
     steps:
